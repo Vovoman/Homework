@@ -1,2 +1,2 @@
 # Homework
-# just playing javascript and Html 5
+# just playing  with javascript and Html 5
